@@ -1,0 +1,10 @@
+{
+  "app_name": "Ransomware Defense Lab",
+  "version": "1.0.0",
+  "sandbox_dir": "sandbox",
+  "extensions_to_encrypt": [".txt", ".docx", ".pdf", ".jpg", ".png"],
+  "encryption_key_file": "keys/secret.key",
+  "log_file": "logs/security.log",
+  "defense_mode": "active",
+  "theme": "dark"
+}
