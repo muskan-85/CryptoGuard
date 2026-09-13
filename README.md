@@ -175,6 +175,88 @@ sequenceDiagram
 
 ---
 
+---
+
+## 📸 PROJECT PREVIEW
+
+The following screenshots showcase the CryptoGuard interface, simulation workflow, detection and response features, security monitoring, and reporting interface.
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="Ransomware%20Simulation%20and%20Defense%20Mechanism/Screenshots/screenshot-01.jpg" width="100%">
+
+</td>
+<td width="50%">
+
+<img src="Ransomware%20Simulation%20and%20Defense%20Mechanism/Screenshots/screenshot-02.jpg" width="100%">
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<img src="Ransomware%20Simulation%20and%20Defense%20Mechanism/Screenshots/screenshot-03.jpg" width="100%">
+
+</td>
+<td width="50%">
+
+<img src="Ransomware%20Simulation%20and%20Defense%20Mechanism/Screenshots/screenshot-04.jpg" width="100%">
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<img src="Ransomware%20Simulation%20and%20Defense%20Mechanism/Screenshots/screenshot-05.jpg" width="100%">
+
+</td>
+<td width="50%">
+
+<img src="Ransomware%20Simulation%20and%20Defense%20Mechanism/Screenshots/screenshot-06.jpg" width="100%">
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<img src="Ransomware%20Simulation%20and%20Defense%20Mechanism/Screenshots/screenshot-07.jpg" width="100%">
+
+</td>
+<td width="50%">
+
+<img src="Ransomware%20Simulation%20and%20Defense%20Mechanism/Screenshots/screenshot-08.jpg" width="100%">
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<img src="Ransomware%20Simulation%20and%20Defense%20Mechanism/Screenshots/screenshot-09.jpg" width="100%">
+
+</td>
+<td width="50%">
+
+<img src="Ransomware%20Simulation%20and%20Defense%20Mechanism/Screenshots/screenshot-10.jpg" width="100%">
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<img src="Ransomware%20Simulation%20and%20Defense%20Mechanism/Screenshots/screenshot-11.jpg" width="100%">
+
+</td>
+<td width="50%"></td>
+</tr>
+</table>
+
 ## 🎓 WHAT I LEARNED & MARKET VALUE
 
 ### **What I Built For**
